@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.JS**
 
-- 🤝 I’m looking for Peojects in **Web Development**
+- 🤝 I’m looking for Projects in **Web Development**
 
 - 💬 Ask me about **Javascript, Node.js, Express, MongoDB, Networking**
 
